@@ -14,9 +14,9 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 20495694982
-  numberOfFiles: 42
-  numberOfSubjects: 15
+  numberOfBytes: 23224948092
+  numberOfFiles: 49
+  numberOfSubjects: 18
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -55,7 +55,8 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-12-09T18:40:13.070955+00:00'
-description: NG-CANCAN remote targeting electroporation - II
+description: "NG-CANCAN remote targeting electroporation - II\nThis work was partially
+  supported by NIH grant 1R21EY034258."
 ethicsApproval: []
 id: DANDI:001277/draft
 identifier: DANDI:001277
