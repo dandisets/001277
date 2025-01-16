@@ -23,9 +23,9 @@ assetsSummary:
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Silkuniene, Giedre; Silkunas, Mantas; Pakhomov, Andrei (2025) DURATION NG-CANCAN
-  remote targeting electroporation - II (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/001277/draft
+citation: 'Silkuniene, Giedre; Silkunas, Mantas; Pakhomov, Andrei (2025) NG-CANCAN
+  Remote Targeting Electroporation: Impact of Pulse Duration and Protocol Delivery
+  Frequency (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001277/draft'
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -55,8 +55,15 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-12-09T18:40:13.070955+00:00'
-description: "NG-CANCAN remote targeting electroporation - II\nThis work was partially
-  supported by NIH grant 1R21EY034258."
+description: Experiments were conducted using a four-electrode array with an inter-electrode
+  spacing of 10 mm. The electrode array was positioned at the bottom of the well plate
+  (0 mm). Pulse durations of 300 ns, 600 ns, and 900 ns were tested. Depending on
+  the pulse duration, the protocol consisted of 18 packets for 300 ns pulses, 9 packets
+  for 600 ns pulses, or 6 packets for 900 ns pulses, delivered at frequencies of 0.4
+  MHz, 0.2 MHz, and 0.14 MHz, respectively. Each protocol was repeated twice at a
+  frequency of 1 Hz. Cell monolayer integrity was assessed using Hoechst staining,
+  while membrane permeability was evaluated with YoPro-1. This work was partially
+  supported by NIH grant 1R21EY034258.
 ethicsApproval: []
 id: DANDI:001277/draft
 identifier: DANDI:001277
@@ -65,7 +72,8 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001277/versions/draft/assets/
-name: DURATION NG-CANCAN remote targeting electroporation - II
+name: 'NG-CANCAN Remote Targeting Electroporation: Impact of Pulse Duration and Protocol
+  Delivery Frequency'
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
