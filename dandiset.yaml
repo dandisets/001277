@@ -61,6 +61,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-12-09T18:40:13.070955+00:00'
+datePublished: '2025-07-01T16:10:02.637740+00:00'
 description: Experiments were conducted using a four-electrode array with an inter-electrode
   spacing of 10 mm. The electrode array was positioned at the bottom of the well plate
   (0 mm). Pulse durations of 300 ns, 600 ns, and 900 ns were tested. Depending on
@@ -79,6 +80,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001277/versions/draft/assets/
 name: 'NG-CANCAN Remote Targeting Electroporation: Impact of Pulse Duration and Protocol
   Delivery Frequency'
+publishedBy:
+  endDate: '2025-07-01T16:10:02.637740+00:00'
+  id: urn:uuid:61fe5d28-ba36-4f8a-870c-766277af4d1e
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-07-01T16:10:02.637740+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:528fdb54-9525-415d-a14b-ed87e12b3c11
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: MHz compression of pulse packets facilitates remote focusing of electroporation
   relation: dcite:IsPublishedIn
