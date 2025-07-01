@@ -25,7 +25,7 @@ assetsSummary:
   variableMeasured: []
 citation: 'Silkuniene, Giedre; Silkunas, Mantas; Pakhomov, Andrei (2025) NG-CANCAN
   Remote Targeting Electroporation: Impact of Pulse Duration and Protocol Delivery
-  Frequency (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001277/draft'
+  Frequency (Version 0.250701.1610) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001277/0.250701.1610'
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -71,13 +71,14 @@ description: Experiments were conducted using a four-electrode array with an int
   frequency of 1 Hz. Cell monolayer integrity was assessed using Hoechst staining,
   while membrane permeability was evaluated with YoPro-1. This work was partially
   supported by NIH grant 1R21EY034258.
+doi: 10.48324/dandi.001277/0.250701.1610
 ethicsApproval: []
-id: DANDI:001277/draft
+id: DANDI:001277/0.250701.1610
 identifier: DANDI:001277
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001277/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001277/0.250701.1610/assets.yaml
 name: 'NG-CANCAN Remote Targeting Electroporation: Impact of Pulse Duration and Protocol
   Delivery Frequency'
 publishedBy:
@@ -101,8 +102,8 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-url: https://dandiarchive.org/dandiset/001277/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001277/0.250701.1610
+version: 0.250701.1610
 wasGeneratedBy:
 - identifier: NIH 1R21EY034258
   name: Targeted Neuromodulation by Nanosecond Pulsed Electric Fields
