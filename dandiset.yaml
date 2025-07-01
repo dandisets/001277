@@ -42,6 +42,12 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
+- identifier: 0000-0003-4950-4130
+  name: Pakhomova, Olga
+  schemaKey: Person
+- identifier: 0000-0002-0302-1355
+  name: Semenov, Iurii
+  schemaKey: Person
 - identifier: 0000-0003-3816-3860
   includeInCitation: true
   name: Pakhomov, Andrei
@@ -67,19 +73,21 @@ description: Experiments were conducted using a four-electrode array with an int
 ethicsApproval: []
 id: DANDI:001277/draft
 identifier: DANDI:001277
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001277/versions/draft/assets/
 name: 'NG-CANCAN Remote Targeting Electroporation: Impact of Pulse Duration and Protocol
   Delivery Frequency'
-protocol: []
-relatedResource: []
+relatedResource:
+- name: MHz compression of pulse packets facilitates remote focusing of electroporation
+  relation: dcite:IsPublishedIn
+  resourceType: dcite:JournalArticle
+  schemaKey: Resource
+  url: https://doi.org/10.1016/j.bioelechem.2025.109016
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-studyTarget: []
 url: https://dandiarchive.org/dandiset/001277/draft
 version: draft
 wasGeneratedBy:
